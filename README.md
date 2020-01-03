@@ -1,6 +1,6 @@
 # Sjtu m3dv final project - 517021910077 吴禹宣
 ## Files and folders
-In the folder called 'sjtu-m3dv-medical-3d-voxel-classification\test', there are all the test candidates downloaded from kaggle.
+To run this model, all the test candidates downloaded from kaggle are needed. Before running, please place the files in this repository where folder 'sjtu-m3dv-medical-3d-voxel-classification' is.
 'net.pth' and 'optimizer' includes the data in the trained model.
 'test.py' is the final test python file that uses the trained model on the test dataset. 
 ## How to run
